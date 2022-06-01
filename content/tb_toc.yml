@@ -1,0 +1,17 @@
+format: jb-book
+root: intro_tb
+parts:
+- caption: 'Part 1'
+  numbered: false
+  chapters:
+  - file: p1/ch1
+- caption: 'Part 2'
+  numbered: true
+  chapters:
+  - file: p2/ch1
+  - file: p2/ch2
+- caption: 'Part 3'
+  numbered: true
+  chapters:
+  - file: p3/ch1
+  - file: p3/ch2
