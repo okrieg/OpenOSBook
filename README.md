@@ -1,2 +1,1 @@
-# coursecontenttemplate
-Jupyter Based Course Content template
+content/gettingstarted.md

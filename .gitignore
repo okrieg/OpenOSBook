@@ -1,2 +1,7 @@
-textbook
 *~
+*.DS_Store
+*_checkpoints*
+textbook/
+lecturenotes/
+labmanual/
+__pycache__

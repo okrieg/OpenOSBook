@@ -4,45 +4,27 @@ parts:
 - caption: 'Course Specfic Introductions'
   numbered: false
   chapters:
-  - file: L00_210_JA
-  - file: L00_400_F21_JA
-- caption: 'Viewing Lectures'
+  - file: COURSE1
+  - file: COURSE2
+- caption: 'Viewing Lecture Notes'
   numbered: false
   chapters:
   - file: lnhowto
   - file: howto
-- caption: 'The Unix Development Environment'
+- caption: 'Part 1'
   numbered: true
   chapters:
-  - file: unix/L01
-  - file: unix/L02
-  - file: unix/L03
-  - file: unix/L04
-  - file: unix/L05
-  - file: unix/L06
-- caption: 'The Belly of the Beast: The von Neumann Architecture and Assembly Programming'
+  - file: part1/L01
+  - file: part1/L02
+- caption: 'Part 2'
   numbered: true
   chapters:
-  - file: assembly/L07
-  - file: assembly/L08
-  - file: assembly/L09
-  - file: assembly/L10
-  - file: assembly/L11
-  - file: assembly/L12
-  - file: assembly/L13
-  - file: assembly/L14
-  - file: assembly/L15
-  - file: assembly/L16
-- caption: 'Into the Light : C Programming'
+  - file: part2/L01
+  - file: part2/L02
+- caption: 'Part 3'
   numbered: true
   chapters:
-  - file: C/L17
-  - file: C/L18
-  - file: C/L19
-  - file: C/L20
-  - file: C/L21
-  - file: C/L22
-  - file: C/L23
-  - file: C/L24
-  - file: C/L25
+  - file: part3/L03
+  - file: part3/L04
   
+
